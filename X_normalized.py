@@ -1,3 +1,5 @@
+# NUMPY PROBLEM #1
+
 import numpy as np 
 X=np.random.random((5,5))
 Y=(X-np.mean(X))/np.std(X)
