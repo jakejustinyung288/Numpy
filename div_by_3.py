@@ -1,3 +1,4 @@
+# NUMPY PROBLEM # 2
 import numpy as np 
 x= np.arange(1,101,1).reshape(10,10)
 y=x*x
